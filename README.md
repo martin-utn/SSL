@@ -18,8 +18,7 @@ Este es un proyecto básico en lenguaje **C** que imprime `"Hola Mundo"` en la c
 
 
 ## 📄 Descripción
-
-Un clásico programa de introducción que muestra cómo imprimir texto en pantalla usando C.
+Programa que muestra cómo imprimir texto en pantalla usando C.
 
 
 
